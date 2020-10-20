@@ -2,7 +2,7 @@
 In machine learning, support-vector machines are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis.
 The objective of the support vector machine algorithm is to find a hyperplane in an N-dimensional space(N — the number of features) that distinctly classifies the data points.
 
-Here, SVM has been used to predict whether or not a person is going to buy a luxurious car. The dataset that has been used is: "SVMdataset.csv".
+Here, SVM has been used to predict whether or not a person is going to buy a luxurious car. The dataset that has been used can be found [here](https://github.com/Sarkar22/Using-SVM-to-make-prediction/blob/main/SVMdataset.csv)
 
 The entire project can be divided into various sub-section. They are as follows:
 
