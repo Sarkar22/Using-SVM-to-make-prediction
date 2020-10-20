@@ -1,4 +1,4 @@
-# Using-SVM-to-make-prediction
+# Using-SVM-to-make-prediction on luxurious car purchase:
 In machine learning, support-vector machines are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis.
 The objective of the support vector machine algorithm is to find a hyperplane in an N-dimensional space(N — the number of features) that distinctly classifies the data points.
 
