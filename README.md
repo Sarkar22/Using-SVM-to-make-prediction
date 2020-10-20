@@ -12,4 +12,7 @@ The entire project can be divided into various sub-section. They are as follows:
 * **Build an SVM classifier and make Predictions:** Finally, let's build the SVM. Here the SVC class from scikit-learn has been used. For now, we are not using kernels, so we should set the kernel argument of SVC to 'linear'. There is no need to specify any other parameters for now. You can find the documentation for SVC here: https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
 * **Fit the SVM classifier to the dataset and making predictions:** To fit the dataset .fit() method & to make prediction .predict() has been used. 
 * **Visualize training and testing sets results:**
+
+![training_set](https://github.com/Sarkar22/Using-SVM-to-make-prediction/blob/main/training_set.PNG)
+![testing_set](https://github.com/Sarkar22/Using-SVM-to-make-prediction/blob/main/testing_set.PNG)
 * **Calculate the accuracy score:** The accuracy score has been found to be 0.88, which can be futher improved by selecting different form of kernels, such as: ploy, rbf.
